@@ -7,7 +7,7 @@ Github for ECEG 201 for Spring 2021
 
 **Full DAMNED Code.py**  -  The original application code that can be modified for custom applications
 
-**Tuner.py**  -  The finished code for my application and is the main code to run
+**Tuner.py**  -  The finished code for my application and the main code to run (would be renamed "code.py" when uploaded onto feather m4)
 
 **README.md**  -  This file
 
@@ -46,6 +46,8 @@ Github for ECEG 201 for Spring 2021
 ---
 
 ## Demo Video:
+
+<a href="https://www.youtube.com/watch?v=b3vKT6Wksjo&ab_channel=IsidorePhilosophe" target="_blank"><img src="https://github.com/ibp001/Digital-Guitar-Tuner-Project/blob/315f97193fbd75498d2cc2093bd8aeafb589b0c4/Build%20Photos/Demonstration%20Video%20Thumbnail.png" alt="Click here for youtube link" width="240" height="180" border="10" /></a>
 
 [Click Here for youtube link](https://www.youtube.com/watch?v=b3vKT6Wksjo&ab_channel=IsidorePhilosophe)
 
@@ -111,3 +113,5 @@ Full demonstration setup:
 
 Closeup of device running and showing display:
 ![alt text](https://github.com/ibp001/Digital-Guitar-Tuner-Project/blob/1f31ce5507239ff1a26a97d3e6b5bab9dc77757a/Build%20Photos/ECEG%20201%20-%20D.A.M.N.E.D%20Project%20Guitar%20Tuner%2015.jpg "ECEG 201 - D.A.M.N.E.D Project Guitar Tuner 15.jpg")
+
+[Watch the demonstration video here](https://www.youtube.com/watch?v=b3vKT6Wksjo&ab_channel=IsidorePhilosophe)
